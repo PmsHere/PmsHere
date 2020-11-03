@@ -11,3 +11,10 @@
 - ⚡ Fact: I am a Noobie.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Apollothewolf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+### Connect With Me:
+
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="40px" />](https://t.me/ApolloOfficial)
+[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="40px" />](mailto:r0459122@gmail.com)
+[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="40px" />](https://github.com/Apollothewolf)
+
