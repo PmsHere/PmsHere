@@ -10,6 +10,9 @@
 - 📫 Find me on Telegram - [ᏗᎮ๏ɭɭ๏🇮🇳](https://t.me/TheRealApollo).
 - ⚡ Fact: I am a Noobie.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PmsHere" alt="PmsHere" /></a> </p>
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PmsHere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Connect With Me:
