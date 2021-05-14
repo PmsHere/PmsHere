@@ -1,14 +1,14 @@
-### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![telegram badge](https://img.shields.io/badge/PmsHere-30302f?style=flat&logo=telegram)](https://t.me/PmsHere)
+<p align="center">
+
+  <img src="https://media.giphy.com/media/BAADBAADJQIAAuZGrVLIjvJdidLuhAI/giphy.gif">
+
+</p>
+
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TheRealApollo) 
+
+<br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PmsHere/)
-
-- 🔭 I’m currently studying.
-- 👬 I’m looking to collaborate on Project.
-- 👀 I’m looking for help with Open Source.
-- 💬 Ask me about anything, always ready to help.
-- 📫 Find me on Telegram - [ᏗᎮ๏ɭɭ๏🇮🇳](https://t.me/TheRealApollo).
-- ⚡ Fact: I am a Noobie.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PmsHere" alt="PmsHere" /></a> </p>
 
@@ -19,12 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PmsHere&show_icons=true&locale=en" alt="PmsHere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PmsHere&" alt="PmsHere" /></p>
-
-
-### Connect With Me:
-
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="40px" />](https://t.me/PmsHere)
-[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="40px" />](mailto:r0459122@gmail.com)
-[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="40px" />](https://github.com/PmsHerr)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PmsHere&" alt="PmsHere" />
