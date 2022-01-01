@@ -1,4 +1,3 @@
-[![hola](https://telegra.ph/file/ace8480475313aea4a247.jpg)](http://t.me/PmsHere)
 
 <br>
 
