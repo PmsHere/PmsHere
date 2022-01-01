@@ -1,11 +1,36 @@
-### Hey there 👋 
-
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TheRealApollo) 
+[![hola](https://telegra.ph/file/acb9eeab34eae25938ed6.mp4)](http://TheRealApollo.me)
 
 <br>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PmsHere/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PmsHere" alt="PmsHere" /></a> </p>
+### Owner [MT Groups & Bots][done]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PmsHere&show_icons=true&locale=en&layout=compact" alt="PmsHere" /></p>
+```
+I'm simply nothing..! 
+
+```
+## Connect with me:
+
+[<img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][telegram]
+
+[<img align="left" alt="E Mail" width="30px" src="https://img.icons8.com/dusk/64/000000/email.png" />][email]
+
+[<img align="left" alt="Support" width="30px" src="https://img.icons8.com/cotton/64/000000/laptop-coding.png" />][support]
+
+<br />
+
+<br />
+
+---
+
+<img align="left" alt="PmeHeres's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PmsHere&hide=prs&count_private=true&show_icons=true&theme=algolia" />
+
+
+[telegram]: https://telegram.dog/MT_Officials
+
+[email]: r0459122@gmail.com
+
+[support]: https://telegram.dog/MT_Officials
+
+[done]: https://github.com/TheRealApollo
