@@ -33,4 +33,4 @@ I'm simply nothing..!
 
 [support]: https://telegram.dog/MT_Officials
 
-[done]: https://telegrsm.dog/PmsHere
+[done]: https://t.me/PmsHere
