@@ -2,8 +2,10 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PmsHere/)
 ```
-CA By Profession 
-Editor By Passion 
+🎓CA By Profession 
+🎬Editor By Passion 
+🎶Music Luber
+🎹Pianist 
 
 _PmsHere
 ```
