@@ -2,14 +2,10 @@
 
 <br>
 
+###ᏗᎮ๏ɭɭ๏🇮🇳 #PmsHere [@TheRealApollo][PmsHere]
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PmsHere/)
 
-### Owner [MT Groups & Bots][done]
-
-```
-I'm simply nothing..! 
-
-```
 ## Connect with me:
 
 [<img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][telegram]
@@ -26,11 +22,10 @@ I'm simply nothing..!
 
 <img align="left" alt="PmeHeres's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PmsHere&hide=prs&count_private=true&show_icons=true&theme=algolia" />
 
-
 [telegram]: https://telegram.dog/MT_Officials
 
 [email]: r0459122@gmail.com
 
 [support]: https://telegram.dog/MT_Officials
 
-[done]: https://t.me/PmsHere
+[PmsHere]: https://t.me/PmsHere
