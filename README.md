@@ -1,16 +1,12 @@
-### ᏗᎮ๏ɭɭ๏🇮🇳 #PmsHere [@TheRealApollo][PmsHere]
+### Heya 👋! Wass up !?
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PmsHere/)
 
-<div align="center">
-<img src="https://tenor.com/bk4ng.gif" align="right">
-  </div>
-
 ```
-🎓CA By Profession 
-🎬Editor By Passion 
-🎶Music Luber
-🎹Pianist 
+My Name is Shalu Alexander Lukose.
+I am a Accountant and a passanate developer..
+###Telegram: ᏗᎮ๏ɭɭ๏🇮🇳 #PmsHere Username: @TheRealApollo
+Working @TeamUltroid & [BotzHub](telegram.me/BotzHub)
 
 _PmsHere
 ```
