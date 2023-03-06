@@ -24,11 +24,6 @@ I am a Accountant and a passanate developer..
 
 <br />
 
-## 📊 Stats
-
-[![Metrics](./github-metrics.svg)](https://github.com/Pmshere)
-
-
 [telegram]: https://telegram.dog/MT_Officials
 
 [email]: r0459122@gmail.com
@@ -36,3 +31,5 @@ I am a Accountant and a passanate developer..
 [support]: https://telegram.dog/MT_Officials
 
 [PmsHere]: https://t.me/PmsHere
+
+<a href="https://www.digitalocean.com/?refcode=45ba8c10ec8a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img height="35" style="border:0px;height:35px;" alt="Pmshere" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
