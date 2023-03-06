@@ -5,10 +5,11 @@
 ```
 My Name is Shalu Alexander Lukose.
 I am a Accountant and a passanate developer..
-###Telegram: ᏗᎮ๏ɭɭ๏🇮🇳 #PmsHere Username: @TheRealApollo
-Working @TeamUltroid & [BotzHub](telegram.me/BotzHub)
+• Telegram: ᏗᎮ๏ɭɭ๏🇮🇳 #PmsHere Username: @TheRealApollo
+• Working @TeamUltroid & [BotzHub](telegram.me/BotzHub)
+• Community: [Mallu Torent](telegram.me/MalluTorentzTG)
 
-_PmsHere
+                                            ~ PmsHere
 ```
 
 ## Connect with me:
