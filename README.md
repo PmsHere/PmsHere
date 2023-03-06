@@ -2,6 +2,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PmsHere/)
 
+## 🎗️ About Me
 ```
 My Name is Shalu Alexander Lukose.
 I am a Accountant and a passanate developer..
@@ -12,7 +13,7 @@ I am a Accountant and a passanate developer..
                                             ~ PmsHere
 ```
 
-## Connect with me:
+## 💌 Connect with me:
 
 [<img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][telegram]
 
@@ -32,4 +33,5 @@ I am a Accountant and a passanate developer..
 
 [PmsHere]: https://t.me/PmsHere
 
+## 💰 Support Me
 <a href="https://www.digitalocean.com/?refcode=45ba8c10ec8a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img height="35" style="border:0px;height:35px;" alt="Pmshere" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
