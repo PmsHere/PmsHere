@@ -1,17 +1,55 @@
-### Heya 👋! Wass up !?
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PmsHere</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Cyber Domain!</h1>
+        <img src="https://example.com/hacker_image.jpg" alt="Hacker Image">
+    </header>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PmsHere/)
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                I am an student with a passion for unraveling the mysteries of the digital realm.
+                My expertise lies in cybersecurity, ethical hacking, and all things related to digital defense.
+                With an insatiable curiosity and an uncanny ability to decipher complex systems, I thrive in the
+                ever-evolving world of cyber warfare.
+            </p>
+        </section>
 
-## 🎗️ About Me
-```
-My Name is Shalu Alexander Lukose.
-I am a Accountant and a passanate developer..
-• Telegram: ᏗᎮ๏ɭɭ๏🇮🇳 #PmsHere Username: @TheRealApollo
-• Working @TeamUltroid & [BotzHub](telegram.me/BotzHub)
-• Community: [Mallu Torent](telegram.me/MalluTorentzTG)
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>BlackICE Intrusion Detection System</li>
+                <li>PhantomCrypt</li>
+                <li>CyberSentinel</li>
+            </ul>
+        </section>
 
-                                            ~ PmsHere
-```
+        <section>
+            <h2>Achievements</h2>
+            <ul>
+                <li>Top 10 finalist in the Global Cybersecurity Challenge</li>
+                <li>Recognized by the International Association of Cybersecurity Professionals</li>
+                <li>Published author of "The Art of Digital Intrusion"</li>
+            </ul>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Stay tuned for upcoming projects, code snippets, and deep-dives into the dark corners of cybersecurity.</p>
+        <p>Remember, the only limit is your imagination! 🚀</p>
+    </footer>
+
+    <!-- Hacker Wolf Sticker -->
+    <img src="https://example.com/hacker_wolf_sticker.png" alt="Hacker Wolf Sticker" style="position: fixed; bottom: 20px; right: 20px; width: 100px; height: 100px;">
+</body>
+</html>
+
 
 ## 💌 Connect with me:
 
