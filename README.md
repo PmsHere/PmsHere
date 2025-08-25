@@ -4,11 +4,18 @@
 
 <div align="center">
   <pre style="color:#00FF00; font-family:monospace;">
-   ██████  ██████  ███████ ████████ ███████ 
-  ██      ██   ██ ██         ██    ██      
-  ██      ██████  █████      ██    █████   
-  ██      ██   ██ ██         ██    ██      
-   ██████ ██   ██ ███████    ██    ███████
+          ______
+     .-"      "-.
+    /            \
+   |,  .-.  .-.  ,|
+   | )(_o/  \o_)( |
+   |/     /\     \|
+   (_     ^^     _)
+    \__|IIIIII|__/
+     | \IIIIII/ |
+     \          /
+      `--------`
+
   </pre>
   <h3 style="color:#00FF00">Hi, I’m Ghost 👻</h3>
   <p style="color:#AAAAAA;">Code tactician | Discord bot enthusiast | Hacker at heart</p>
@@ -61,8 +68,8 @@ $ missions
 
 ## 📡 Connect
 
-* GitHub: [yourusername](https://github.com/yourusername)
-* Discord: \[yourDiscordTag]
+* GitHub: [PmsHere](https://github.com/PmsHere)
+* Discord: \[DrAdityaTG]
 
 ---
 
@@ -87,16 +94,7 @@ Ghost is live in the terminal...<br>
 
 ---
 
-✅ **New Features Added:**
-
-* Blinking “Ghost” effect using 💀👻 emojis for live terminal vibe
-* Green-on-black hacker aesthetic
-* Animated hacker GIF
-* Professional, clean, and still “Ghosty”
-
----
-
-📫 How to Reach Me
+## 📫 How to Reach Me
 
 [<img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][telegram]
 
