@@ -1,37 +1,100 @@
-<div align="center">
-👋 Hello, I'm [Your Name]
-Security Enthusiast | Software Developer | Problem Solver
+<!-- ====================== -->
+<!-- Ghost & Hacker Terminal Themed GitHub README -->
+<!-- ====================== -->
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+<div align="center">
+  <pre style="color:#00FF00; font-family:monospace;">
+   ██████  ██████  ███████ ████████ ███████ 
+  ██      ██   ██ ██         ██    ██      
+  ██      ██████  █████      ██    █████   
+  ██      ██   ██ ██         ██    ██      
+   ██████ ██   ██ ███████    ██    ███████
+  </pre>
+  <h3 style="color:#00FF00">Hi, I’m Ghost 👻</h3>
+  <p style="color:#AAAAAA;">Code tactician | Discord bot enthusiast | Hacker at heart</p>
+</div>
+
+---
+
+## 💻 About Me
+```bash
+$ whoami
+Ghost
+$ echo "Code tactician | Discord bot enthusiast | Hacker at heart"
+````
+
+* 🎮 Inspired by **Call of Duty’s Ghost**: tactical, calm under pressure, always ahead.
+* 🔐 Love **hacker mindset**: exploring systems, solving puzzles, building stealthy solutions.
+* 🏗️ Passionate about **bots, scripts, automation**, and server integrations.
+
+---
+
+## 🚀 Tech Stack
+
+```bash
+Languages: TypeScript, JavaScript, Python, Pawn (SA:MP)
+Platforms: Deno Deploy, GitHub Actions, Discord
+Specialties: Discord Bots, Automation, Server Integrations
+```
+
+---
+
+## 🎯 Current Missions
+
+```bash
+$ missions
+- Develop attendance & stats bots for faction servers
+- Build Discord–SA:MP integrations (moderation, logs, auto systems)
+- Study ISO & operations management to fuse business & tech
+```
+
+---
+
+## 📊 Stats & Badges
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social\&color=00ff00)
+![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social\&color=00ff00)
+![GitHub repos](https://img.shields.io/github/repos/yourusername?style=social\&color=00ff00)
+![GitHub issues](https://img.shields.io/github/issues/yourusername?style=social\&color=00ff00)
+
+---
+
+## 📡 Connect
+
+* GitHub: [yourusername](https://github.com/yourusername)
+* Discord: \[yourDiscordTag]
+
+---
+
+> “Ghosts don’t just disappear — they leave traces in code.”
+
+---
+
+<div align="center">
+
+<span style="color:#00FF00; font-family:monospace;">
+💀👻💀👻💀👻💀👻💀👻💀👻<br>
+Ghost is live in the terminal...<br>
+💀👻💀👻💀👻💀👻💀👻💀👻
+</span>
 
 </div>
-🛠️ Tech Stack & Tools
-Languages:
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 
-Areas of Interest:
-https://img.shields.io/badge/Security-Expertise-2ea44f?style=for-the-badge
-https://img.shields.io/badge/Pentesting-F0DB4F?style=for-the-badge
-https://img.shields.io/badge/Reverse_Engineering-FF6F00?style=for-the-badge
-https://img.shields.io/badge/Automation-000000?style=for-the-badge
-
-📈 GitHub Stats
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical
-
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="hacker terminal animation">
 </div>
-🔥 Current Projects
-Project Chimera: A custom security auditing toolkit written in Python.
+```
 
-Stealth Protocol: A proof-of-concept for network traffic obfuscation (Academic/Research).
+---
 
-Vanguard CLI: A powerful command-line interface for automating penetration testing recon.
+✅ **New Features Added:**
+
+* Blinking “Ghost” effect using 💀👻 emojis for live terminal vibe
+* Green-on-black hacker aesthetic
+* Animated hacker GIF
+* Professional, clean, and still “Ghosty”
+
+---
 
 📫 How to Reach Me
 
