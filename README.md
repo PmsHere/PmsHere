@@ -26,9 +26,9 @@
 ## `$ whoami`
 
 ```bash
-Ghost@terminal:~$ cat profile.txt
+PmsHere@terminal:~$ cat profile.txt
 
-  Name    : Ghost (DrAdityaTG)
+  Name    : PmsHere
   Role    : Code Tactician · Bot Architect · Systems Tinkerer
   Inspired: Call of Duty's Ghost — tactical, silent, effective
   Mindset : Hacker — explore, break, rebuild, automate
@@ -36,43 +36,6 @@ Ghost@terminal:~$ cat profile.txt
 ```
 
 > Ghosts don't just disappear — they leave traces in code.
-
----
-
-## `$ cat tech_stack.json`
-
-```json
-{
-  "languages"    : ["TypeScript", "JavaScript", "Python", "Pawn (SA:MP)"],
-  "platforms"    : ["Deno Deploy", "GitHub Actions", "Discord API"],
-  "specialties"  : ["Discord Bots", "Automation", "Server Integrations"],
-  "current_study": ["ISO Standards", "Operations Management"],
-  "side_ops"     : ["SA:MP Scripting", "Faction Systems", "Auto-moderation"]
-}
-```
-
----
-
-## `$ ./missions --active`
-
-```
-[ACTIVE]  ████ Develop attendance & stats bots for faction servers
-[ACTIVE]  ████ Discord–SA:MP bridge: moderation · logs · auto systems
-[ACTIVE]  ████ Fusing business logic with backend automation
-[QUEUED]  ░░░░ More classified ops incoming...
-```
-
----
-
-## `$ ls -la ./skills`
-
-| Module | Stack | Status |
-|---|---|---|
-| `discord_bots/` | TypeScript · Deno | `[LIVE]` |
-| `samp_scripts/` | Pawn · SA:MP | `[LIVE]` |
-| `automation/` | Python · GitHub Actions | `[ACTIVE]` |
-| `integrations/` | REST APIs · Webhooks | `[ACTIVE]` |
-| `ops_management/` | ISO · Business Logic | `[LEARNING]` |
 
 ---
 
@@ -97,9 +60,8 @@ Trying 0.0.0.0...
 Connected. Establishing secure channel.
 
   [GitHub]   --> https://github.com/PmsHere
-  [Telegram] --> https://telegram.dog/MT_Officials
+  [Telegram] --> https://telegram.dog/DrAdityaTG
   [Discord]  --> DrAdityaTG
-  [Email]    --> r0459122@gmail.com
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-PmsHere-00ff41?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/PmsHere)
