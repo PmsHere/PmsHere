@@ -61,7 +61,6 @@ Connected. Establishing secure channel.
 
   [GitHub]   --> https://github.com/PmsHere
   [Telegram] --> https://telegram.dog/DrAdityaTG
-  [Discord]  --> DrAdityaTG
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-PmsHere-00ff41?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/PmsHere)
