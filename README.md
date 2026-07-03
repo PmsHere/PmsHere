@@ -61,11 +61,12 @@ Connected. Establishing secure channel.
 
   [GitHub]   --> https://github.com/PmsHere
   [Telegram] --> https://telegram.dog/DrAdityaTG
+  [E-Mail] --> PmsHere@sonofalexander.me
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-PmsHere-00ff41?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/PmsHere)
 [![Telegram](https://img.shields.io/badge/Telegram-MT__Officials-00ff41?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117)](https://telegram.dog/MT_Officials)
-[![Email](https://img.shields.io/badge/Email-r0459122@gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:r0459122@gmail.com)
+[![Email](https://img.shields.io/badge/Email-PmsHere@sonofalexander.me-00ff41?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:PmsHere@sonofalexander.me)
 
 ---
 
